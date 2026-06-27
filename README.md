@@ -276,8 +276,8 @@ jupyter notebook MAIN.ipynb
 
 ### Connect with Me
 
-- GitHub: https://github.com/pritamsingh3
-- LinkedIn: https://www.linkedin.com/in/pritamsingh03/
+- GitHub: https://github.com/pritamsingh3/
+- LinkedIn: https://www.linkedin.com/in/pritamsingh3/
 
 ---
 
